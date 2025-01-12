@@ -1,0 +1,1 @@
+Le tic-tac-toe, aussi appelé « morpion » (par analogie avec le jeu de morpion) et « oxo » en Belgique, est un jeu de réflexion se pratiquant à deux joueurs, tour par tour, dont le but est de créer le premier un alignement. Le jeu se joue généralement en dessinant sur papier au crayon.
